@@ -1,7 +1,7 @@
 # ProjectEstimator
 
 Winforms application created for calculating small customer orders that do not require saving to assist with frequent varied requests.
-Standard pricing information is saved into a SQL database to organize project costs. 
+Standard pricing information is saved into a SQL database to organize project costs. Must be run in Visual Studio.
 
 # General Instructions
 
